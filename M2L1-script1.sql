@@ -1,0 +1,1 @@
+INSERT INTO ingredients (4,”Green apple”, ”Good in Indian dishes”,48);
